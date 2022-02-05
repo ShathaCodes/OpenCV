@@ -17,3 +17,5 @@ Basic functions manipulating images using the OpenCV library.
 1. Histogram Computation
 1. Thresholding/Binarizing Images
 1. Edge Detection
+1. Face Detection
+1. Face Recognition
